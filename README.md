@@ -7,3 +7,7 @@ Or you might just be browsing the internet and want a podcast on!
 Very handy project for a real world situation. 
 
 Please use and enjoy!
+
+/**************************
+  Will not work on mobile
+**************************/
